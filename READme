@@ -1,0 +1,17 @@
+							
+							     GIT
+
+Git is a free and open source distributed version control system where it every project no matter how small or big it is.
+
+							TEATURES OF GIT	
+- Speed: Git is very fast and scalable compared to other version control systems which handles large projects efficiently. 
+		 It is 10 times faster than other VCS tools hence good for storing large files.
+- Secure: Git keeps all commits done by each collaborators on the local copy of the development. 
+		  If a problem raises then it can be easily tracked and handled. 
+		  It uses SHA1 to store all the records in the form o objects in the hash.
+- Open-Source: It is a free open source because it allows multiple people to work on the same project and also collaborate with each other easily
+- Branching: The master branch contains the production quality code.
+			 Branching and merging can be done with the help of a few Git commands. 
+			 This allows its users to work on a line that runs parallel to the main project.
+- Economical: It is available for free. All the operations are performed on the local machine before pushing it on to the central repository.
+			  This helps in saving a lot of money on costly servers.
